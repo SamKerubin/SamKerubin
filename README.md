@@ -1,7 +1,7 @@
 ## About me 
 Hiiii, im SamKerubin but you can call me Sam :3
 
-Im 16 yers old to the date of this commit (18/04/2025)
+Im 17 years old to the date of this commit (05/08/2025)
 
 Ive been studying computer science at college for about a year now
 
