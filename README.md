@@ -1,56 +1,43 @@
-## About me 
-Hiiii, im SamKerubin but you can call me Sam :3
+## About me
 
-Im 17 years old to the date of this commit (05/08/2025)
+Hey there! Im Sam! :3
 
-Ive been studying computer science at college for about a year now
+Im a newbie developer that is currently working non-profesionally as a game developer! :D
 
-## What i do
-Im a videogame dev, ive been working with Godot Engine for like... 7-8 months? Maybe?
+Besides that, im studying hard day by day about many things!
 
-Id love to learn about other engines
+### Silly information about me!!
 
-Im currently working on a huge project... But its a litlle secret :3 (Just for now...)
+- Im 17 years old
+- Colombian!!!
+- I've been studying programming for almost 2 years, and i've been developing things for a year so far
+- Currently studying OS development and AI development
+- Majoring Systems Engineering, currently doing second year and a half
 
-## What im interested in
-Nothing too specific, though im working in videogames development, i really like to create things myself, no matter what
+### How to contact me?
 
-Id love to learn ML in a future not too far away :3
+You can either contact me via my Instagram account or my personal Email :3
 
-My goal is being able to create anything as a software developer, from a simple calculator, to a super-complex neural network
+- [Instagram](https://www.instagram.com/samkerubin/)
+- Email: samuelkiller2013@gmail.com
 
-I dont know... Maybe my dream isnt realistic, but i think im capable of it c:
+## Things i work on and can manage
 
-## Contacts
-I dont really know for what reason you want to contact me, but if you really want to...
+- [Godot Egnine](https://docs.godotengine.org/en/stable/)
+- [Fedora Linux](https://docs.fedoraproject.org/en-US/docs/)
+- [C language](https://devdocs.io/c/)
+- [GDscript](https://docs.godotengine.org/es/4.x/tutorials/scripting/gdscript/index.html)
 
-- Email: samuelkiller2013@gmail.com (please dont ask)
-- Instagram: @SamKerubin
-- Facebook: @SamKerubin
-- LinkedIn: Samuel David Imitola Zambrano (if that doesnt work, try with SamKerubin)
+## Recent projects
 
-## Facts about me
-Why not? If youre reading this, then you must be interested on me in any way... :3
+- [Godot Engine's plugin for better code organization and documentation](https://github.com/SamKerubin/Godot-Graph-Visualizer)
+- 2D Metroidvania videogame (still under development)
 
-Im colombian
+## Thanks for reading!!
 
-I love the universe, like... I REALLY LOVE THE UNIVERSE, it was my first option when i finished school, but for some reasons, i wasnt able to study what i wanted (Cosmology)
+Thats all for now :D
 
-I love indie games, i consider them as an ode to the videogames
+Thanks for reading and if youre reading this, i would be really happy to help in any way on projects about OS dev, videogame dev or even AI!
 
-Im really good at maths and physics :D
-
-I was promoted two grades in school... Yes, i graduated with 15 years, im about to reach 17 years in a couple months :3
-
-My favorite games are Hollow Knigth, The Binding of Isaac and Dead Cells
-
-### Thanks for reading this :D
-Sorry for being so unserious, i dont like being serious at all... I like being happy and a little silly :D
-
-Hope it doesnt affect how you percieve me as a developer or even a person :c
-
-But for now... Thats all :3
-
-Thanks for taking your time reading this, ily :D
-
-  - Sam
+Feel free to drop me a message and i will be more than glad to help you out!
+ 
