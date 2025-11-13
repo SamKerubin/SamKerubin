@@ -1,43 +1,74 @@
 ## About me
 
-Hey there! Im Sam! :3
+Im Sam :3
 
-Im a newbie developer that is currently working non-profesionally as a game developer! :D
+Currently majoring CS, but i like to study low level (more aimed to OS dev) by my own
 
-Besides that, im studying hard day by day about many things!
+I really love developing tools, wish i was able to work on that professionaly
 
-### Silly information about me!!
+Im an open source lover!!! Most of my projects are surely going to be permissive open source, dont expect me to charge you a single penny :3
 
-- Im 17 years old
-- Colombian!!!
-- I've been studying programming for almost 2 years, and i've been developing things for a year so far
-- Currently studying OS development and AI development
-- Majoring Systems Engineering, currently doing second year and a half
+## Tech Stack
 
-### How to contact me?
+<p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamKerubin&layout=compact&theme=dracula">
+</p>
 
-You can either contact me via my Instagram account or my personal Email :3
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="48" height="48" alt="Godot"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
+  <br>
+  <img src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white" height="28" alt="Makefile"/>
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" height="28" alt="GDScript"/>
+</p>
 
-- [Instagram](https://www.instagram.com/samkerubin/)
-- Email: samuelkiller2013@gmail.com
+## How to contact me?
 
-## Things i work on and can manage
-
-- [Godot Egnine](https://docs.godotengine.org/en/stable/)
-- [Fedora Linux](https://docs.fedoraproject.org/en-US/docs/)
-- [C language](https://devdocs.io/c/)
-- [GDscript](https://docs.godotengine.org/es/4.x/tutorials/scripting/gdscript/index.html)
+<p>
+  <a href="mailto:samm.1618033@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sam-imitola-74254b357" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ## Recent projects
 
-- [Godot Engine's plugin for better code organization and documentation](https://github.com/SamKerubin/Godot-Graph-Visualizer)
-- 2D Metroidvania videogame (still under development)
+As i said before, i reaaaallly enjoy developing tools, and ive been developing some :3
+
+- **[Godot Engine Plugin](https://github.com/SamKerubin/Godot-Graph-Visualizer)**
+- **[Linux Tool Set](https://github.com/SamKerubin/fview)**
+- **[C Shared libraries with variated utilities](https://github.com/SamKerubin/CLibs)**
+
+If youre interested on any of these, youre free to look up the source code and its documentation!!
+
+Or also, dont be scared to ask me directly on the purpose of something!
+
+## Future projects
+
+Why not? I want to talk about what my expectations for the future are :D
+
+- **Videogame made with Godot**: A 2D metroidvania videogame, inspired by the love i have for videogames
+- **General OS stuff**: As im still studying this field, im not pretty sure of what can i do. BUT, one of my future projects will be something related to this field (more than a systemd service this time, ofc)
+- **AND MANY MOREEE**: I cant be sure of what my brain will think about on the following months, but i am pretty sure that you guys are going to be as impressed as myself with the ideas i come up with sooooo, stay tuned!!! Who knows when im going to do something incredibly big?
 
 ## Thanks for reading!!
 
-Thats all for now :D
+Thanks for reading this all :3
 
-Thanks for reading and if youre reading this, i would be really happy to help in any way on projects about OS dev, videogame dev or even AI!
+If you need help on something, dont be afraid of contacting me! Im not the best, but i will surely give my best to help you out <3
+<p>
+ If you want to contact me just for chilling, here you have my personal instagram account:<br>
+ <a href="https://www.instagram.com/SamKerubin" target="_blank">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=28 alt="Instagram"/>
+ </a><br>
+</p>
 
-Feel free to drop me a message and i will be more than glad to help you out!
- 
+Once again, thanks for reading <33
+
+And hope we meet again on the road ahead
