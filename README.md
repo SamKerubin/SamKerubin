@@ -47,8 +47,12 @@ Im an open source lover!!! Most of my projects are surely going to be FOSS, dont
 ## Projects
 
 I like to make whatever. Sometimes serious projects, some other times stuff to have fun
+
 You can check out some of my recent projects on my profile, ill surely be working on more of them too!
-Usually, my projects are guided by 
+
+Usually, my projects are aimed to be systems stuff: cli tools, services, etc. But as i said, i like to make stuff for fun too!
+
+For now, however, most of my projects are just things i do to not feel demotivated and learn! But i promise, i will release a serious project one day
 
 ## Thanks for reading!!
 
