@@ -21,6 +21,7 @@ Im an open source lover!!! Most of my projects are surely going to be FOSS, dont
 <h3>Build tools</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="48" height="48" alt="CMake"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width="48" height="48" alt="Nix"/>
 </p>
 <img src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white" height="28" alt="Makefile"/>
 <h3>Software versioning</h3>
