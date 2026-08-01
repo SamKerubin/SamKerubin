@@ -1,72 +1,54 @@
-## About me
-
-Im Sam :3
-
-Currently majoring CS, but i like to study low level (more aimed to OS dev) by my own
-
-I really love developing tools, wish i was able to work on that professionaly
-
-Im an open source lover!!! Most of my projects are surely going to be FOSS, dont expect me to charge you a single penny :3
-
-## Tech Stack
-<h3>Systems</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
-<h3>Languages</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="48" height="48" alt="C-language"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width="48" height="48" alt="Nix"/>
-</p>
-<img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" height="28" alt="GDScript"/>
-<h3>Build tools</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="48" height="48" alt="CMake"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width="48" height="48" alt="Nix"/>
-</p>
-<img src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white" height="28" alt="Makefile"/>
-<h3>Software versioning</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-<h3>Other tools</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="48" height="48" alt="Godot"/>
-
-<h2>Used languages!!</h2>
-<br>
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SamKerubin&layout=compact&hide_title=true&langs_count=4&hide_values=true&disable_animations=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=SamKerubin&layout=compact&hide_title=true&langs_count=4&hide_values=true&disable_animations=true&theme=catppuccin_mocha)
-
-## How to contact me?
-
-<p>
-  <a href="mailto:samm.1618033@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sam-imitola-74254b357" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="center">
+  <a href="https://github.com/SamKerubin">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=420&text=Im%20Sam%20%3A3" alt="Im Sam :3" />
   </a>
 </p>
 
-## Projects
-
-I like to make whatever. Sometimes serious projects, some other times stuff to have fun
-
-You can check out some of my recent projects on my profile, ill surely be working on more of them too!
-
-Usually, my projects are aimed to be systems stuff: cli tools, services, etc. But as i said, i like to make stuff for fun too!
-
-For now, however, most of my projects are just things i do to not feel demotivated and learn! But i promise, i will release a serious project one day
-
-## Thanks for reading!!
-
-Thanks for reading this all :3
-
-If you need help on something, dont be afraid of contacting me! Im not the best, but i will surely give my best to help you out <3
-<p>
- If you want to contact me just for chilling, here you have my personal instagram account:<br>
- <a href="https://www.instagram.com/SamKerubin" target="_blank">
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=28 alt="Instagram"/>
- </a><br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=445&height=44&lines=Certified%20open%20source%20lover" alt="Typing headlines" />
 </p>
 
-Hope we meet again on the road ahead
+### About Me
 
+CS student who loves low level development  
+Future Linux kernel contributor! :3  
+Im always working on something
 
+&nbsp;Pronouns: **she/her**
+
+&nbsp;Im currently learning **Operating Systems and Reverse Engenieering**
+
+&nbsp;Im looking to collaborate on **Open source projects, specially CLI tools and services**
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white" height="28" alt="Makefile"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" height="28" alt="GDScript"/>
+  <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=NixOS&logoColor=white" height="28" alt="GDScript"/>
+</p>
+
+### Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/SamKerubin" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:sammm.1618033@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=SamKerubin&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=db61a2&icon_color=db61a2" alt="stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=SamKerubin&hide_border=true&layout=compact&langs_count=4&hide_values=true&disable_animations=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&bg_color=00000000" alt="top langs" />
+</p>
+
+### Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamKerubin&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
