@@ -43,12 +43,13 @@ Im always working on something
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=SamKerubin&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=db61a2&icon_color=db61a2" alt="stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=SamKerubin&hide_border=true&layout=compact&langs_count=4&hide_values=true&disable_animations=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&bg_color=00000000" alt="top langs" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=SamKerubin&hide_border=true&show_icons=true&theme=radical&bg_color=00000000" alt="stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=SamKerubin&hide_border=true&layout=compact&langs_count=4&hide_values=true&&theme=radical&bg_color=00000000" alt="top langs" />
 </p>
 
-### Contribution Graph
+### Snake!!
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamKerubin&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamKerubin/SamKerubin/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub Streak Snake" src="https://raw.githubusercontent.com/SamKerubin/SamKerubin/output/github-contribution-grid-snake.svg">
+</picture>
